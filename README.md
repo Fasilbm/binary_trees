@@ -259,5 +259,5 @@ Function Prototypes
 
 ## Authors :black_nib:
 
-* __Brennan Dov Baraban__ <[bdbaraban](https://github.com/bdbaraban)>
-* __Fernando González-Morales__ <[fgonza52](https://github.com/fgonza52)>
+* __Fasil Beyene__ <[Fastcaserouge19](https://github.com/Fastcaserouge19)>
+* __Nebil Keno__ <[](https://github.com/)>
